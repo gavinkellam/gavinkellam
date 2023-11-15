@@ -9,3 +9,5 @@ Private repos make your stats low 😧, thats why I keep everything public in my
 ---
 
 ## You have found my School Github Account! Go checkout my real git for more cool projects: https://github.com/corigan01
+
+![funny teacher zip bomb](https://github.com/gavinkellam/gavinkellam/assets/142827601/1064c7ed-8f05-4676-987d-fe7fb84bd5f9)
